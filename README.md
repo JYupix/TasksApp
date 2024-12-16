@@ -75,7 +75,6 @@ Para el desarrollo de este aplicativo, se han utilizado las siguientes librería
 2. Crea un entorno virtual.
    ```bash
    python -m venv env
-   env/Scripts/activate
    ```
 3. Y activalo de la siguiente manera.
    ```bash
