@@ -36,7 +36,7 @@ Para el desarrollo de este aplicativo, se han utilizado las siguientes librería
 - **Descripción:** Esta es la pantalla inicial de la aplicación, donde se pueden visualizar todas las tareas de la base de datos y a la izquierda un sidebar que contiene las funciones de importar y exportar las tareas.
 
 ![Barra Lateral](/img/sidebar.PNG)
-- **Descripción:** En la barra lateral izquierda al darle al botón "Export Tasks" desplegará otro botón para descargar el JSON con todas las tareas. Para importar tareas desde un archivo ".json" daremos en el botón "Browse files" para buscar un archivo desde tu computadora.
+- **Descripción:** En la barra lateral izquierda al darle al botón "Export Tasks" desplegará otro botón para descargar el JSON con todas las tareas. Para importar tareas desde un archivo ".json" daremos en el botón "Browse files" para buscar un archivo desde tu computadora. La siguiente imagen muestra el contenido que debe tener nuestro archivo JSON:
 
 ![Estructura Archivo para Importar JSON](/img/json_image.PNG)
 
