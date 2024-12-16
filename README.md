@@ -23,7 +23,6 @@ Para el desarrollo de este aplicativo, se han utilizado las siguientes librería
 
 1. **Streamlit**: Para construir la interfaz gráfica de usuario.
 2. **SqlAlchemy**: Para cargar y mostrar imágenes en la interfaz.
-3. **json**: Para exportar e importar tareas.
 
 ---
 
